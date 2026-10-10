@@ -1,0 +1,13 @@
+champ,obligatoire,renseignes,manquants,taux_completude
+labels,False,686,14,98.0
+salt_100g,False,688,12,98.3
+sugars_100g,False,688,12,98.3
+fat_100g,False,689,11,98.4
+energy-kcal_100g,False,689,11,98.4
+quantity,True,695,5,99.3
+brands,True,698,2,99.7
+product_name,True,699,1,99.9
+nutriscore_grade,False,700,0,100.0
+ingredients_text,True,700,0,100.0
+code,True,700,0,100.0
+categories,True,700,0,100.0
